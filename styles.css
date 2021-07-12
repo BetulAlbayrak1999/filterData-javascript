@@ -1,0 +1,17 @@
+.wrapper {
+    height: auto;
+    width: auto;
+    margin-left: 200px;
+    margin-right:  200px;
+    background-color:lightcyan;
+}
+.bold {
+    font-weight: bold;
+}
+#FetchButton, .buttons{
+     color: #D62AD0 ;
+     background-color: #78DEC7;
+     text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+     font-size: large;
+}
