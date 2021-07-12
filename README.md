@@ -4,11 +4,11 @@
 #### bir veya birden fazla seçenek seçilebiliyor.
 #### projede html, css ve javascript kullanılmıştır.
 
-## Fetch botuna tıklamadan önce 
+## Fetch botuna tıklanmadan önce 
 
 ![Alt text](fetchButton.png)
 
 
-## Fetch botuna tıkladıktan sonra data geliyor ve filter botunua tıklayarak veriyi filtreleyebiliyoruz
+## Fetch botuna tıklandıktan sonra data geliyor. Sonra stediğimiz kriterleri seçtiyoruz ve filter botunua tıklayarak veriyi filtreleyebiliyoruz
 
 ![Alt text](result.png)
