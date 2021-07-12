@@ -9,6 +9,6 @@
 ![Alt text](fetchButton.png)
 
 
-## Fetch botuna tıklandıktan sonra data geliyor. Sonra stediğimiz kriterleri seçtiyoruz ve filter botunua tıklayarak veriyi filtreleyebiliyoruz
+## Fetch botuna tıklandıktan sonra data geliyor. Sonra istediğimiz kriterleri seçtiyoruz ve filter botunua tıklayarak veriyi filtreleyebiliyoruz
 
 ![Alt text](result.png)
